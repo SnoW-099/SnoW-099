@@ -1,34 +1,32 @@
 ## 👋 Hi, I'm Angel
 
-I'm starting to take programming seriously and focusing on learning the fundamentals of software development.  
-Currently exploring Python, backend concepts, and game development basics.
+I'm starting to take programming seriously and learning the fundamentals of software development.
 
 ---
 
-## 🧠 Currently learning
-- Python programming
-- Programming fundamentals
-- How backend systems work
-- Game development basics
+## 🧠 Skills
 
----
+### 📝 Languages
+![Languages](https://skillicons.dev/icons?i=python,html,css,lua&perline=6)
 
-## 🛠️ Tools & Technologies
-![Skills](https://skillicons.dev/icons?i=python,html,css,git,vscode,vercel,netlify,godot&perline=6)
+### 🎮 Engines
+![Engines](https://skillicons.dev/icons?i=godot&perline=6)
+
+### 🧰 Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,vscode,vercel,netlify&perline=6)
 
 ---
 
 ## 📁 Projects
 - 🌐 Personal portfolio website
-- 🧪 Small learning and practice projects
+- 🧪 Learning and practice projects
 
 ---
 
-## 🎯 Goals
-- Build my first backend project
-- Learn how APIs and databases work
-- Improve problem-solving and code structure
-- Create simple game projects
+## 🎯 Currently focused on
+- Improving Python skills
+- Learning backend concepts
+- Understanding how games are built from scratch
 
 ---
 
