@@ -1,7 +1,4 @@
 ## 👋 Hi, I'm Angel
-
-I'm starting to take programming seriously and learning the fundamentals of software development.
-
 ---
 
 ## 🧠 Skills
