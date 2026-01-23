@@ -1,8 +1,13 @@
+<!-- TOP BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&theme=dark" />
 
-<h1 align="center" style="font-size:32px;">👋 Hi, I'm Angel</h1>
+<!-- TITLE (VERY CLOSE TO BANNER) -->
+<h1 align="center" style="font-size:32px; margin-top:-10px;">
+  👋 Hi, I'm Angel
+</h1>
 
-<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:14px auto;"></div>
+<!-- SEPARATOR -->
+<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:12px auto;"></div>
 
 <h3 align="center" style="font-size:18px;">Languages</h3>
 
@@ -16,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="42"/>
 </div>
 
+<!-- SEPARATOR -->
 <div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:14px auto;"></div>
 
 <h3 align="center" style="font-size:18px;">Tools & Utils</h3>
@@ -24,7 +30,8 @@
   <img src="https://skillicons.dev/icons?i=vercel,netlify,vscode,visualstudio,supabase,git,nodejs" height="42"/>
 </div>
 
-<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:14px auto;"></div>
+<!-- SEPARATOR -->
+<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:16px auto;"></div>
 
 <h3 align="center" style="font-size:18px;">Stats</h3>
 
@@ -33,4 +40,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SnoW-099&layout=compact&theme=dark" height="155"/>
 </div>
 
+<!-- BOTTOM BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&theme=dark" />
