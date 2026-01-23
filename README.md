@@ -23,8 +23,6 @@
 ## 🎯 Currently focused on
 - Improving Python skills
 - Learning backend concepts
-- Understanding how games are built from scratch
-
 ---
 
 ## 📊 GitHub Stats
