@@ -10,26 +10,18 @@
 
 <h3 align="center">🌐 Languages</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="55" height="55" />
-  <img width="15" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="55" height="55" />
-  <img width="15" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="55" height="55" />
-  <img width="15" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="html" width="55" height="55" />
-  <img width="15" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="css" width="55" height="55" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
+  </a>
 </p>
 
 <br>
 
 <h3 align="center">🏗️ Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="55" height="55" />
-  <img width="15" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="55" height="55" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind,nodejs&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,react,tailwind,nodejs&theme=dark" />
+  </a>
 </p>
 
 <br>
