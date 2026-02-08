@@ -1,50 +1,46 @@
-### Hi there 👋
-[![](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)](https://twitter.com/tu_usuario)
-
-<h3 align="center">A techie passionate about AI & Web Development</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&theme=dark&text=Angel&fontSize=50" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Angel+Garcia" alt="Angel" /></a>
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?lines=AI+Integrations;Full-Stack+Developer;Always+Learning" alt="Skills"/></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%26+Django+Expert;React+%26+TypeScript+Lover" alt="Typing SVG" />
+  </a>
 </p>
 
----
+<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:12px auto;"></div>
 
-- 😄 Interests: AI / Generative AI / Web3 / RPA
-- 🔭 Currently working on ChatGPT integrations
-- 🌱 Learning Langchain, Mediachain, and Web3 Dev
-- 👯 Looking to collaborate on AI / Blockchain projects
-
----
-
-### 🛠️ My Favorite Tools & Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,django,flask,html,css,cpp,csharp,mysql,mongodb,vscode,git" height="40px" />
-</div>
-
----
-
-### 📊 GitHub Stats
+<h3 align="center">🚀 Languages and Tools</h3>
 <p align="center">
-  <a href="https://github.com/tu_usuario"><img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark" height="160px" /></a>
-  <a href="https://github.com/tu_usuario"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark" height="160px" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,html,css,tailwind,nodejs,mongodb,kafka,git,vscode,supabase,vercel&theme=dark" />
+  </a>
 </p>
 
----
+<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:14px auto;"></div>
 
-### 🔗 Connect with me
+<h3 align="center">📊 My Stats</h3>
 <p align="center">
-  <a href="https://twitter.com/tu_usuario"><img width="32px" src="https://i.imgur.com/OXZM1L6.png" alt="Twitter"/></a>
-  <a href="https://discord.com/users/tu_usuario"><img width="32px" src="https://i.imgur.com/OViZO8J.png" alt="Discord"/></a>
-  <a href="https://github.com/tu_usuario"><img width="32px" src="https://i.imgur.com/8Km9tLL.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/tu_usuario/"><img width="32px" src="https://i.imgur.com/0hYh2Sv.png" alt="LinkedIn"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" height="150" />
 </p>
 
----
-
-### 🎉 Fun GIFs
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" height="100px" />
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="100px" />
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="100px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=dark&hide_border=true&background=0D1117" alt="Streak Stats" />
 </p>
+
+<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:16px auto;"></div>
+
+<h3 align="center">☕ Support</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/snow099" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
+  </a>
+</p>
+
+<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:16px auto;"></div>
+
+<h3 align="center">🐍 Snake Contribution</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO_AQUI/TU_USUARIO_AQUI/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&theme=dark" />
