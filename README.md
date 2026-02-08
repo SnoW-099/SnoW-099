@@ -10,9 +10,15 @@
 
 <h3 align="center">🌐 Languages</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
-  </a>
+  <img src="https://raw.githubusercontent.com/vigneshsharma/animated-tech-icons/master/python/python.gif" width="50" height="50" alt="python" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/vigneshsharma/animated-tech-icons/master/javascript/javascript.gif" width="50" height="50" alt="js" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/vigneshsharma/animated-tech-icons/master/typescript/typescript.gif" width="50" height="50" alt="ts" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/vigneshsharma/animated-tech-icons/master/html5/html5.gif" width="50" height="50" alt="html" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/vigneshsharma/animated-tech-icons/master/css3/css3.gif" width="50" height="50" alt="css" />
 </p>
 
 <br>
