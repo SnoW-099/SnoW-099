@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">Building bots and useful web apps</h3>
+<h3 align="center">Building bots and useful dashboards</h3>
 
 ---
 
@@ -9,9 +9,9 @@
 Personal dashboard to organize tasks and notes.  
 https://github.com/SnoW-099/vibe  
 
-**🤖 Vext**  
-Mobile app agent designed to automate tasks.  
-https://github.com/SnoW-099/Vext  
+**🤖 Rez**  
+Discord bot for fun and utility, automates tasks and engages communities.  
+https://github.com/SnoW-099/Rez  
 
 ---
 
