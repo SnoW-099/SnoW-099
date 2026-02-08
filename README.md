@@ -1,69 +1,50 @@
-<h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">Building bots and useful dashboards</h3>
+### Hi there 👋
+[![](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)](https://twitter.com/tu_usuario)
 
----
-
-## 🎯 Focus on
+<h3 align="center">A techie passionate about AI & Web Development</h3>
 
 <p align="center">
-  <b>📊 Vibe</b> – Personal dashboard to organize tasks and notes<br>
-  <a href="https://github.com/SnoW-099/vibe"><img src="https://img.shields.io/badge/GitHub-Vibe-181717?style=for-the-badge&logo=github&logoColor=white" alt="Vibe"></a>
-</p>
-
-<p align="center">
-  <b>🤖 Rez</b> – Discord bot for fun and utility, automates tasks and engages communities<br>
-  <a href="https://github.com/SnoW-099/Rez"><img src="https://img.shields.io/badge/GitHub-Rez-181717?style=for-the-badge&logo=github&logoColor=white" alt="Rez"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Angel+Garcia" alt="Angel" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?lines=AI+Integrations;Full-Stack+Developer;Always+Learning" alt="Skills"/></a>
 </p>
 
 ---
 
-## 🌐 Portfolio
+- 😄 Interests: AI / Generative AI / Web3 / RPA
+- 🔭 Currently working on ChatGPT integrations
+- 🌱 Learning Langchain, Mediachain, and Web3 Dev
+- 👯 Looking to collaborate on AI / Blockchain projects
+
+---
+
+### 🛠️ My Favorite Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,django,flask,html,css,cpp,csharp,mysql,mongodb,vscode,git" height="40px" />
+</div>
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <a href="https://portfolio-snow.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-View-0A0A0A?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/tu_usuario"><img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark" height="160px" /></a>
+  <a href="https://github.com/tu_usuario"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark" height="160px" /></a>
 </p>
 
 ---
 
-## 💻 Languages & Frameworks
+### 🔗 Connect with me
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-  <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
-  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+  <a href="https://twitter.com/tu_usuario"><img width="32px" src="https://i.imgur.com/OXZM1L6.png" alt="Twitter"/></a>
+  <a href="https://discord.com/users/tu_usuario"><img width="32px" src="https://i.imgur.com/OViZO8J.png" alt="Discord"/></a>
+  <a href="https://github.com/tu_usuario"><img width="32px" src="https://i.imgur.com/8Km9tLL.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/tu_usuario/"><img width="32px" src="https://i.imgur.com/0hYh2Sv.png" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-## 🛠 Tools & Platforms
+### 🎉 Fun GIFs
 <p align="center">
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
-  <a href="https://netlify.com/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" height="100px" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" height="100px" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="100px" />
 </p>
-
----
-
-## 🔍 Currently Learning
-<p align="center">
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-</p>
-
----
-
-## 📫 Contact
-<p align="center">
-  <a href="mailto:ryze0950@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://instagram.com/snow_099_"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://portfolio-snow.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
-</p>
-****
