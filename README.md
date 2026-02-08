@@ -10,24 +10,26 @@
 
 <h3 align="center">🌐 Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vigneshsharma/animated-tech-icons/master/python/python.gif" width="50" height="50" alt="python" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="55" height="55" />
   <img width="15" />
-  <img src="https://raw.githubusercontent.com/vigneshsharma/animated-tech-icons/master/javascript/javascript.gif" width="50" height="50" alt="js" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="55" height="55" />
   <img width="15" />
-  <img src="https://raw.githubusercontent.com/vigneshsharma/animated-tech-icons/master/typescript/typescript.gif" width="50" height="50" alt="ts" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="55" height="55" />
   <img width="15" />
-  <img src="https://raw.githubusercontent.com/vigneshsharma/animated-tech-icons/master/html5/html5.gif" width="50" height="50" alt="html" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="html" width="55" height="55" />
   <img width="15" />
-  <img src="https://raw.githubusercontent.com/vigneshsharma/animated-tech-icons/master/css3/css3.gif" width="50" height="50" alt="css" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="css" width="55" height="55" />
 </p>
 
 <br>
 
 <h3 align="center">🏗️ Frameworks & Libraries</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,react,tailwind,nodejs&theme=dark" />
-  </a>
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="55" height="55" />
+  <img width="15" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="55" height="55" />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=tailwind,nodejs&theme=dark" />
 </p>
 
 <br>
