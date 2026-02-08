@@ -8,39 +8,38 @@
 
 <div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:12px auto;"></div>
 
-<h3 align="center">🚀 Languages and Tools</h3>
+<h3 align="center">🌐 Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,html,css,tailwind,nodejs,mongodb,kafka,git,vscode,supabase,vercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
   </a>
 </p>
 
-<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:14px auto;"></div>
+<br>
 
-<h3 align="center">📊 My Stats</h3>
+<h3 align="center">🏗️ Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Langs" height="150" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,react,tailwind,nodejs&theme=dark" />
+  </a>
 </p>
 
+<br>
+
+<h3 align="center">🛠️ Tools & Utils</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=dark&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,supabase,vercel,netlify,kafka,mongodb&theme=dark" />
+  </a>
 </p>
 
-<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:16px auto;"></div>
+<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:20px auto;"></div>
 
 <h3 align="center">☕ Support</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/snow099" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
   </a>
-</p>
-
-<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:16px auto;"></div>
-
-<h3 align="center">🐍 Snake Contribution</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO_AQUI/TU_USUARIO_AQUI/output/github-contribution-grid-snake.svg" alt="Snake" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&theme=dark" />
