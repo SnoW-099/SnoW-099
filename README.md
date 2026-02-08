@@ -45,4 +45,4 @@ https://github.com/SnoW-099/Vext
 
 ## 📫 Contact
 📧 ryze0950@gmail.com  
-📸 https://instagram.com/snow_099_
+📸 <https://instagram.com/snow_099_>
