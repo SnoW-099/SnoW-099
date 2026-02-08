@@ -10,27 +10,21 @@
 
 <h3 align="center">🌐 Languages</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" />
 </p>
 
 <br>
 
 <h3 align="center">🏗️ Frameworks & Libraries</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,react,tailwind,nodejs&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=django,react,tailwind,nodejs&theme=dark" />
 </p>
 
 <br>
 
 <h3 align="center">🛠️ Tools & Utils</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,supabase,vercel,netlify,kafka,mongodb&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,vscode,supabase,vercel,netlify,mongodb&theme=dark" />
 </p>
 
 <div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:20px auto;"></div>
