@@ -2,11 +2,34 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Younger+Developer+from+Spain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Junior+Developer+from+Spain;Python+%7C+JavaScript+%7C+TypeScript;Building+and+learning+every+day" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  Building small tools, web apps and desktop projects while learning software development.
+</p>
+
 <div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:12px auto;"></div>
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<p align="center">
+  <b>Snowtify</b><br>
+  Spotify customization project.
+</p>
+
+<p align="center">
+  <b>StarOptimizer</b><br>
+  Windows optimization utility.
+</p>
+
+<p align="center">
+  <b>Py Mini Systems</b><br>
+  Small Python projects focused on backend logic, JSON storage and CLI tools.
+</p>
+
+<br>
 
 <h3 align="center">🌐 Languages</h3>
 <p align="center">
