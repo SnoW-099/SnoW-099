@@ -1,46 +1,25 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&theme=dark&text=Angel&fontSize=50" />
+<h1 align="center">Angel</h1>
 
+<h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Junior+Developer+from+Spain" alt="Typing SVG" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" alt="Python, HTML, CSS" />
 </p>
 
-<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:12px auto;"></div>
-
-<h3 align="center">🌐 Languages</h3>
+<h3 align="center">Learning</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="JavaScript, TypeScript" />
 </p>
 
-<br>
-
-<h3 align="center">📚 Learning</h3>
+<h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=django,react,tailwind,nodejs&theme=dark" alt="Django, React, Tailwind CSS, Node.js" />
 </p>
 
-<br>
-
-<h3 align="center">🏗️ Frameworks & Libraries</h3>
+<h3 align="center">Tools & Utils</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,tailwind,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,supabase,vercel,netlify,mongodb&theme=dark" alt="Git, VS Code, Supabase, Vercel, Netlify, MongoDB" />
 </p>
 
-<br>
-
-<h3 align="center">🛠️ Tools & Utils</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,supabase,vercel,netlify,mongodb&theme=dark" />
+  <a href="https://www.buymeacoffee.com/snow099">☕ Support</a>
 </p>
-
-<div align="center" style="width:55%;height:1px;background:#2f2f2f;margin:20px auto;"></div>
-
-<h3 align="center">☕ Support</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/snow099" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" />
-  </a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&theme=dark" />
